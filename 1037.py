@@ -1,4 +1,3 @@
-#Acepted
 
 num = float(input())
 

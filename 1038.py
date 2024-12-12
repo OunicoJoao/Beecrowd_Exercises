@@ -10,9 +10,6 @@ texto = input()
 codigo = int(texto[0]) 
 quantidade = int(texto[2])
 
-#print o total 
-#acessar preço apartir do codigo e multiplicar por quantidade
-
 for elemento in valores:
 
     if elemento['cod'] == codigo:
